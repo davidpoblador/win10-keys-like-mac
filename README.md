@@ -21,6 +21,10 @@ things should work™ in earlier versions.
 find some way to improve or simplify this further, please share away!
 - Last time I used Windows, Windows 2000 had just been released, probably
 I've made this overly complicated.
+- ❤️☕ If I had found a snippet like this one when I got my new computer I would
+have totally bought some coffee for the author. If this has saved some hours
+of research and increased just a bit your productivity,
+[consider doing so](https://www.buymeacoffee.com/dpig).
 
 ## Approach
 
@@ -58,9 +62,3 @@ remaps.
 Windows. Probably the easiest option is to drop it in the startup folder.
 (You can reach that folder by going to `Run` and typing `shell:startup` and
 `Enter`.)
-
-## ❤️☕
-
-If I had found a snippet like this one when I got my new computer I would
-have totally bought some coffee for the author. If this has saved some hours
-of research and increased just a bit your productivity, consider doing so.

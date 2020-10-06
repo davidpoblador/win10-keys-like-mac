@@ -46,13 +46,17 @@ remaps.
 ## Installation Instructions
 
 1. Download and install
-[SharpKeys](https://www.randyrants.com/category/sharpkeys/)
+[SharpKeys](https://www.randyrants.com/category/sharpkeys/).
 2. Download and install
-[AutoHotkey](https://www.autohotkey.com/)
+[AutoHotkey](https://www.autohotkey.com/).
 3. Program the following remaps in SharpKeys:
+
+    - From: `Special: Left Ctrl (00_1D)` To: `Function: F20 (00_6B)`
+    - From: `Special: Left Windows (E0_5B)` To: `Left Ctrl (00_1D)`
+
 4. Download the `.ahk` file from this repo, and make sure it starts with
 Windows. Probably the easiest option is to drop it in the startup folder.
-(you can reach that folder by going to `Run` and typing `shell:startup` and
+(You can reach that folder by going to `Run` and typing `shell:startup` and
 `Enter`.)
 
 ## ❤️☕
